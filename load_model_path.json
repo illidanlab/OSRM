@@ -1,0 +1,10 @@
+{
+    "cola": "./.save_dir/cola/roberta-large-r8-a16-analytical-fixN-qv-wd0.0-seq128-100/merged_model",
+    "mnli": "./.save_dir/mnli/roberta-large-r8-a16-analytical-fixN-qv-wd0.0-seq128-100/merged_model",
+    "sst2": "./.save_dir/sst2/roberta-large-r8-a16-analytical-fixN-qv-wd0.0-seq128-100/merged_model",
+    "mrpc": "./.save_dir/mrpc/roberta-large-r8-a16-analytical-fixN-qv-wd0.0-seq128-100/merged_model",
+    "qnli": "./.save_dir/qnli/roberta-large-r8-a16-analytical-fixN-qv-wd0.0-seq128-100/merged_model",
+    "qqp": "./.save_dir/qqp/roberta-large-r8-a16-analytical-fixN-qv-wd0.0-seq128-100/merged_model",
+    "rte": "./.save_dir/rte/roberta-large-r8-a16-analytical-fixN-qv-wd0.0-seq128-100/merged_model",
+    "stsb": "./.save_dir/stsb/roberta-large-r8-a16-analytical-fixN-qv-wd0.0-seq128-100/merged_model"
+}
